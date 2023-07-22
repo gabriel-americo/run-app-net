@@ -5,16 +5,168 @@
       "PackagePath": "staticwebassets\\RunGroopWebApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\entypo.css",
+      "PackagePath": "staticwebassets\\css\\entypo.css"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\flickity.min.css",
+      "PackagePath": "staticwebassets\\css\\flickity.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\socicon.css",
+      "PackagePath": "staticwebassets\\css\\socicon.css"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\css\\theme.css.map"
     },
     {
       "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\entypo.eot",
+      "PackagePath": "staticwebassets\\fonts\\entypo.eot"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\entypo.svg",
+      "PackagePath": "staticwebassets\\fonts\\entypo.svg"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\entypo.ttf",
+      "PackagePath": "staticwebassets\\fonts\\entypo.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\entypo.woff",
+      "PackagePath": "staticwebassets\\fonts\\entypo.woff"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\entypo.woff2",
+      "PackagePath": "staticwebassets\\fonts\\entypo.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\js\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\flickity.pkgd.js",
+      "PackagePath": "staticwebassets\\js\\flickity.pkgd.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\flickity.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\flickity.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax-element.min.js",
+      "PackagePath": "staticwebassets\\js\\jarallax-element.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax-element.min.js.map",
+      "PackagePath": "staticwebassets\\js\\jarallax-element.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax-video.min.js",
+      "PackagePath": "staticwebassets\\js\\jarallax-video.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax-video.min.js.map",
+      "PackagePath": "staticwebassets\\js\\jarallax-video.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\js\\jarallax.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jarallax.min.js.map",
+      "PackagePath": "staticwebassets\\js\\jarallax.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\jquery.smartWizard.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.smartWizard.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\js\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\prism.js",
+      "PackagePath": "staticwebassets\\js\\prism.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\scrollMonitor.js",
+      "PackagePath": "staticwebassets\\js\\scrollMonitor.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\scrollMonitor.js.map",
+      "PackagePath": "staticwebassets\\js\\scrollMonitor.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\js\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\zoom-vanilla.min.js",
+      "PackagePath": "staticwebassets\\js\\zoom-vanilla.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\js\\zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\zoom.min.js"
     },
     {
       "Id": "C:\\Projects\\.NET-60\\RunGroopWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
