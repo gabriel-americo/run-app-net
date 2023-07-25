@@ -8,9 +8,9 @@ namespace RunGroopWebApp.Services
 {
     public class PhotoService : IPhotoService
     {
-        private readonly Cloudinary _cloudinary;
+        private readonly Cloudinary _cloundinary;
 
-        public PhotoService(IOptions<CloudnarySettings> config)
+        public PhotoService(IOptions<CloudinarySettings> config)
         {
             var acc = new Account(
                 config.Value.CloudName,
@@ -18,7 +18,7 @@ namespace RunGroopWebApp.Services
                 config.Value.ApiSecret
                 );
 
-            _cloudinary = new Cloudinary(acc);
+            _cloundinary = new Cloudinary(acc);
         }
 
         public async Task<ImageUploadResult> AddPhotoAsync(IFormFile file)
@@ -33,7 +33,7 @@ namespace RunGroopWebApp.Services
                     File = new FileDescription(file.FileName, stream),
                     Transformation = new Transformation().Height(500).Width(500).Crop("fill").Gravity("face")
                 };
-                uploadResult = await _cloudinary.UploadAsync(uploadParams);
+                uploadResult = await _cloundinary.UploadAsync(uploadParams);
             }
 
             return uploadResult;
@@ -42,7 +42,7 @@ namespace RunGroopWebApp.Services
         public async Task<DeletionResult> DeletePhotoAsync(string publicId)
         {
             var deleteParams = new DeletionParams(publicId);
-            var result = await _cloudinary.DestroyAsync(deleteParams);
+            var result = await _cloundinary.DestroyAsync(deleteParams);
 
             return result;
         }
