@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RunGroopWebApp.Interfaces;
 using RunGroopWebApp.Models;
-using RunGroopWebApp.ViewModel;
+using RunGroopWebApp.ViewModels;
 
 namespace RunGroopWebApp.Controllers
 {
